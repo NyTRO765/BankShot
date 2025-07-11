@@ -1,2 +1,2 @@
-# BankShot.github.io
+# BankShot
 Pool Hall website
