@@ -1,5 +1,8 @@
 <html lang="en">
-<body>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+  <body>
   <header>
     <h1>Bank Shot</h1>
   </header>
