@@ -17,8 +17,8 @@
       <p>This area displays the primary content based on the wireframe layout.</p>
     </div>
     <div class="Contact Us">
-      <h3>Sidebar</h3>
-      <p>Supplementary content or links go here.</p>
+      <h3>Current/Upcoming Events</h3>
+      <p>No Events Currently Established.</p>
     </div>
   </div>
 
