@@ -8,7 +8,7 @@
     <a href="https://www.example.com">Home</a>
     <a href="https://www.example.com">About</a>
     <a href="https://www.example.com">Services</a>
-    <a href="https://www.example.com">Contact</a>
+    <a href="ContactInformation.md">Contact</a>
   </nav>
 
   <div class="container">
