@@ -1,6 +1,5 @@
 <html lang="en">
 <body>
-
   <header>
     <h1>Bank Shot</h1>
   </header>
