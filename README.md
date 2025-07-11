@@ -6,10 +6,10 @@
   </header>
 
   <nav>
-    <a href="#">Home</a>
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Contact</a>
+    <a href="https://www.example.com">Home</a>
+    <a href="https://www.example.com">About</a>
+    <a href="https://www.example.com">Services</a>
+    <a href="https://www.example.com">Contact</a>
   </nav>
 
   <div class="container">
