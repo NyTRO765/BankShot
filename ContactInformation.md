@@ -6,7 +6,7 @@
 
   <nav>
     <a href="https://https://nytro765.github.io/BankShot/">Home</a>
-    <a href="https://www.example.com">About</a>
+    <a href="About.md">About</a>
     <a href="https://www.example.com">Services</a>
     <a href="ContactInformation.md">Contact</a>
   </nav>
