@@ -6,7 +6,7 @@
 
   <nav>
     <a href="https://https://nytro765.github.io/BankShot/">Home</a>
-    <a href="https://www.example.com">About</a>
+    <a href="About.md">About</a>
     <a href="https://www.example.com">Services</a>
     <a href="ContactInformation.md">Contact</a>
   </nav>
@@ -16,9 +16,7 @@
     <p>Owner: Tre'tin Alvarez</p>
     <p>Open Since: July 1, 2035</p>
     <h3> History </h3>
-    <a href="https://www.example.com">Facebook</a>
-    <a href="https://www.example.com">Instagram</a>
-    <a href="https://www.example.com">TikTok</a>
+    <p> Starting as a just a hobby with his dad, Tre'tin wanted to do something more with pool. He decided that he was going to turn his hobby into something that could benefit his community, as well as express his interests. He decided to create Bank Shot. A place where people with varying interest can all hang out and have fun. For his pool interest, Tre'tin made the pool hall area, filled with 15 tables. For his passion with gaming, card games, and overall spending time with friends he created the entertainment area. The pool hall is meant to be a place for the general public to enjoy, and to hold APA and private tournaments. The entertainment area is for TCG or video game tournaments, or can be rented out for hosting private events.</p>
   </footer>
 
 </body>
