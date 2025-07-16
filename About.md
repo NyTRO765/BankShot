@@ -18,9 +18,9 @@
     <h3> History </h3>
     <p> Starting as a just a hobby with his dad, Tre'tin wanted to do something more with pool. He decided that he was going to turn his hobby into something that could benefit his community, as well as express his interests. He decided to create Bank Shot. A place where people with varying interest can all hang out and have fun. For his pool interest, Tre'tin made the pool hall area, filled with 15 tables. For his passion with gaming, card games, and overall spending time with friends he created the entertainment area. The pool hall is meant to be a place for the general public to enjoy, and to hold APA and private tournaments. The entertainment area is for TCG or video game tournaments, or can be rented out for hosting private events.</p>
   <h3> Follow Our Socials </h3>
-    <a href="https://www.example.com">Facebook</a>
-    <a href="https://www.example.com">Instagram</a>
-    <a href="https://www.example.com">TikTok</a>
+    <a href="https://www.facebook.com">Facebook</a>
+    <a href="https://www.instagram.com">Instagram</a>
+    <a href="https://www.tiktok.com/en/">TikTok</a>
   </footer>
 
 </body>
