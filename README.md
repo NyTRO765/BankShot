@@ -33,8 +33,8 @@
     <p>Email: MarionBankShot@gmail.com</p>
     <h3> Follow Our Socials </h3>
     <a href="https://www.facebook.com">Facebook</a>
-    <a href="https://www.example.com">Instagram</a>
-    <a href="https://www.example.com">TikTok</a>
+    <a href="https://www.instagram.com">Instagram</a>
+    <a href="https://www.tiktok.com/en/">TikTok</a>
   </footer>
 
 </body>
