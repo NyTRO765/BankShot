@@ -14,6 +14,7 @@
   <footer>
     <h2> Pool </h2>
     <img src="Pool.jpg" alt="Player Breaking in Pool">
+    <h3>APA, Private, or Recreational</h3>
     <p></p>
     <h2> Gaming </h2>
     <img src="Video_Games.jpg" alt="People Playing Video Games">
