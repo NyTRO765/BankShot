@@ -13,7 +13,7 @@
 
   <footer>
     <h2> Bar </h2>
-      <h3>If We're Open, so is The Bar!</h3>
+      <h3>If We're Open, So Is The Bar!</h3>
         <p></p>
         <img src="Bar.jpg" alt="Photo of Bar">
     <h2> Pool </h2>
