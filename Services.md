@@ -22,7 +22,7 @@
     <img src="Video_Games.jpg" alt="People Playing Video Games">
     <h2> TCG </h2>
     <h3>Casual and Competitive</h3>
-    <p>Saturday Magic</p>
+    <p> <b> Saturday Magic </b> </p>
     <p>On Saturdays, we will host Magic The Gathering from 12pm - 8pm. We will have deisgnated tables for commander and standard formats. It is meant to be
      a casual atmosphere, however, bring your strongest deck and start a high bracket table at your own risk! </p>
     <p>Sunday Pokemon</p>
