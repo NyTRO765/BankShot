@@ -22,7 +22,9 @@
     <img src="Video_Games.jpg" alt="People Playing Video Games">
     <h2> TCG </h2>
     <h3>Casual and Competitive</h3>
-    <p></p>
+    <p>Saturday Magic</p>
+    <p>On Saturdays, we will host magic from 12pm - 8pm. We will have deisgnated tables for commander and standard formats. It is meant to be
+     a casual atmosphere, however, bring your strongest deck and start a high bracket table at your own risk! </p>
     <img src="Pokemon.jpg" alt="Person Playing Pokemon">
     <h2> Follow Our Socials </h2>
     <a href="https://www.facebook.com">Facebook</a>
