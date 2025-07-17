@@ -13,7 +13,7 @@
 
   <footer>
     <h3> Contact Information </h3>
-    <p>Address: 1234 BankShot Ave, Marion, IN 46953 | Phone | Email</p>
+    <p>Address: 1234 BankShot Ave, Marion, IN 46953</p>
     <p>Phone #: (765)618-2265</p>
     <p>Email: MarionBankShot@gmail.com</p>
     <h3> Follow Our Socials </h3>
