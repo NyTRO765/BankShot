@@ -12,16 +12,16 @@
   </nav>
 
   <footer>
-    <h3> Pool </h3>
+    <h2> Pool </h2>
     <img src="Pool.jpg" alt="Player Breaking in Pool">
     <p></p>
-    <h3> Gaming </h3>
+    <h2> Gaming </h2>
     <img src="Video_Games.jpg" alt="People Playing Video Games">
     <p></p>
-    <h3> TCG </h3>
+    <h2> TCG </h2>
     <img src="Pokemon.jpg" alt="Person Playing Pokemon">
     <p></p>
-    <h3> Follow Our Socials </h3>
+    <h2> Follow Our Socials </h2>
     <a href="https://www.facebook.com">Facebook</a>
     <a href="https://www.instagram.com">Instagram</a>
     <a href="https://www.tiktok.com/en/">TikTok</a>
