@@ -17,7 +17,7 @@
         <p></p>
         <img src="Pool.jpg" alt="Player Breaking in Pool">
     <h2> Gaming </h2>
-      <h3>Casual</h3>
+      <h3>Private Events</h3>
         <p></p>
       <h3>Competitive</h3>
         <p></p>
