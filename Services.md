@@ -15,18 +15,25 @@
     <h2> Bar </h2>
       <h3>If We're Open, So Is The Bar!</h3>
         <p>Whether we're hosting TCG groups, Gaming groups, or Pool groups, the bar is open for all customers that are 21+. 
-          If we find someone under 21 drinking, them and their group will be asked to immediately leave the premises. The bar is a privelege 
+          If we find someone under 21 drinking, them and their group will be asked to immediately leave the premises. The bar is a privilege 
           and it's to help amplify the fun! We're here to create fun oportunities for the community! Have fun and drink responsibly!</p>
         <img src="Bar.jpg" alt="Photo of Bar">
     <h2> Pool </h2>
       <h3>APA, Private, or Recreational</h3>
-        <p></p>
+        <p>We are happy to have the opportunity to host a wide variety of events for the pool players in our community! We host APA and 
+          private tournaments! If you're wanting to host a private tournament, contact us for more information. We also encourage novice 
+          or inspiring players to come in during our hours of operation and practice!</p>
         <img src="Pool.jpg" alt="Player Breaking in Pool">
     <h2> Gaming </h2>
       <h3>Private Events</h3>
-        <p></p>
+        <p>Our gaming space is available to rent out for groups to enjoy! We have PS5, Xbox Series X, and the Nintendo Switch 2! 
+          If you would like to suggest games for us to purchase to add to our library, we send out a Google Form across our platforms 
+          and tally up the votes for each system. Whatever games get the most votes, will be purchased for their respective systems. 
+          If you want to play a game that isn't currently on our system, you will need to bring a copy of the game.</p>
       <h3>Competitive</h3>
-        <p></p>
+        <p>Along with hosting private events, we will also hold tournaments for popular game titles such as Super Smash, Mario Kart, 
+          Madden, and others. Measures to prevent cheating on titles will be taken into account such as having multiple consoles and 
+          screens. Contact us for more information on tournament rules and the full list of games we will be hosting.</p>
         <img src="Video_Games.jpg" alt="People Playing Video Games">
     <h2> TCG (Casual and Competitive)</h2>
       <h3>Saturday Magic</h3>
