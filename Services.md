@@ -1,7 +1,7 @@
 <html lang="en">
 <body>
   <header>
-    <h1>About</h1>
+    <h1>Services</h1>
   </header>
 
   <nav>
