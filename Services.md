@@ -13,15 +13,17 @@
 
   <footer>
     <h2> Pool </h2>
-    <img src="Pool.jpg" alt="Player Breaking in Pool">
     <h3>APA, Private, or Recreational</h3>
     <p></p>
+    <img src="Pool.jpg" alt="Player Breaking in Pool">
     <h2> Gaming </h2>
+    <h3>Casual and Competitive</h3>
+    <p></p>
     <img src="Video_Games.jpg" alt="People Playing Video Games">
-    <p></p>
     <h2> TCG </h2>
-    <img src="Pokemon.jpg" alt="Person Playing Pokemon">
+    <h3>Casual and Competitive</h3>
     <p></p>
+    <img src="Pokemon.jpg" alt="Person Playing Pokemon">
     <h2> Follow Our Socials </h2>
     <a href="https://www.facebook.com">Facebook</a>
     <a href="https://www.instagram.com">Instagram</a>
