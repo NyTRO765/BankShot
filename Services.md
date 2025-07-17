@@ -14,7 +14,9 @@
   <footer>
     <h2> Bar </h2>
       <h3>If We're Open, So Is The Bar!</h3>
-        <p></p>
+        <p>Whether we're hosting TCG groups, Gaming groups, or Pool groups, the bar is open for all customers that are 21+. 
+          If we find someone under 21 drinking, them and their group will be asked to immediately leave the premises. The bar is a privelege 
+          and it's to help amplify the fun! We're here to create fun oportunities for the community! Have fun and drink responsibly!</p>
         <img src="Bar.jpg" alt="Photo of Bar">
     <h2> Pool </h2>
       <h3>APA, Private, or Recreational</h3>
