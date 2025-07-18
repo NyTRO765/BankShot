@@ -6,7 +6,7 @@
   </header>
 
   <nav>
-    <a href="README.md">Home</a>
+    <a href="https://nytro765.github.io/BankShot/">Home</a>
     <a href="About.md">About</a>
     <a href="Services.md">Services</a>
     <a href="ContactInformation.md">Contact</a>
