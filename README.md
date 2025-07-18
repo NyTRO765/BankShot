@@ -1,9 +1,7 @@
 <html lang="en">
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
   <body>
   <header>
+    <link rel="stylesheet" href="styles.css">
     <h1>Bank Shot (NOT A REAL BUSINESS.....yet)</h1>
   </header>
 
