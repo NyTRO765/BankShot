@@ -22,7 +22,14 @@
     color: white;
     text-align: center;
   }
-  footer p {
+footer h3 {
+    background-color: rgb(6, 96, 199);
+    border: 2px solid black;
+    border-color: black;
+    color: white;
+    text-align: center;
+  }  
+footer p {
     text-align: center;
   }
   .center {
@@ -42,15 +49,5 @@
   img {
     margin-left: auto;
     margin-right: auto;
-  }
-footer h3 {
-    background-color: rgb(6, 96, 199);
-    border: 2px solid black;
-    border-color: black;
-    color: white;
-    text-align: center;
-  }
-  footer p {
-    text-align: center;
   }
 </style>
