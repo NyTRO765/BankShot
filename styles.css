@@ -16,7 +16,9 @@
     text-align: center;
   }
   h3 {
-    background-color: black;
+    background-color: rgb(6, 96, 199);
+    border: 2px solid black;
+    border-color: black;
     color: white;
     text-align: center;
   }
@@ -24,6 +26,20 @@
     text-align: center;
   }
   .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  table, td {
+    border: 2px solid black;
+    border-color: black;
+  }
+  th {
+    background-image: url('Nav_Background.jpg');
+    color: white;
+    border: 2px solid black;
+    border-color: black;
+  }
+  img {
     margin-left: auto;
     margin-right: auto;
   }
