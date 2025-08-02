@@ -1,53 +1,51 @@
-<style>
-  h1 {
-    background-image: url('Header_Background.jpg');
-    color: white;
-    font-size: 42px;
-    padding: 20px;
-    text-align: center;
-  }
-  nav {
-    font-size: 20px;
-    text-align: center;
-  }
-  h2 {
-    background-color: black;
-    color: white;
-    text-align: center;
-  }
-  h3 {
-    background-color: rgb(6, 96, 199);
-    border: 2px solid black;
-    border-color: black;
-    color: white;
-    text-align: center;
-  }
+h1 {
+  background-image: url('Header_Background.jpg');
+  color: white;
+  font-size: 42px;
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  font-size: 20px;
+  text-align: center;
+}
+h2 {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h3 {
+  background-color: rgb(6, 96, 199);
+  border: 2px solid black;
+  border-color: black;
+  color: white;
+  text-align: center;
+}
 footer h3 {
-    background-color: rgb(6, 96, 199);
-    border: 2px solid black;
-    border-color: black;
-    color: white;
-    text-align: center;
-  }  
+  background-color: rgb(6, 96, 199);
+  border: 2px solid black;
+  border-color: black;
+  color: white;
+  text-align: center;
+}  
 footer p {
-    text-align: center;
-  }
-  .center {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  table, td {
-    border: 2px solid black;
-    border-color: black;
-  }
-  th {
-    background-image: url('Nav_Background.jpg');
-    color: white;
-    border: 2px solid black;
-    border-color: black;
-  }
-  img {
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+table, td {
+  border: 2px solid black;
+  border-color: black;
+}
+th {
+  background-image: url('Nav_Background.jpg');
+  color: white;
+  border: 2px solid black;
+  border-color: black;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
