@@ -38,20 +38,13 @@ footer p {
   margin-left: auto;
   margin-right: auto;
 }
-table{
+table, td{
   border: 2px solid black;
   border-color: black;
-  width: 100%;
-  overflow-x: auto;
-  display: block;
 }
 th {
   background-image: url('Nav_Background.jpg');
   color: white;
-  border: 2px solid black;
-  border-color: black;
-}
-td {
   border: 2px solid black;
   border-color: black;
 }
