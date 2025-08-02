@@ -38,26 +38,15 @@ footer p {
   margin-left: auto;
   margin-right: auto;
 }
-table {
+table, td {
   border: 2px solid black;
   border-color: black;
-  width: 100%;
-  border-collapse: collapse;
-  table-layout: fixed;
 }
 th {
   background-image: url('Nav_Background.jpg');
   color: white;
   border: 2px solid black;
   border-color: black;
-  overflow-wrap: break-word;
-  font-size: 4px
-}
-td {
-  border: 2px solid black;
-  border-color: black;
-  overflow-wrap: break-word;
-  font-size: 4px
 }
 img {
   margin-left: auto;
